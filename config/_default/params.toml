@@ -59,9 +59,7 @@ enableCodeCopy = true
 [taxonomy]
   showTermCount = true
 
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+googleAnalytics = 324375398 
 
 [verification]
   # google = ""
