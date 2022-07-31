@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Matt's Blog"
+title = "Matthew Perry"
 # logo = "img/logo.jpg"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Matthew Perry"
    image = "img/author.jpg"
-   headline = "Aspiring Developer"
+   headline = "404 Description Not Found"
    bio = "I'm a senior computer science major at Clemson University."
    links = [
   #   { email = "mailto:hello@your_domain.com" },
