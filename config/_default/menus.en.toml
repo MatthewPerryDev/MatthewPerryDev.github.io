@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Projects"
+  pageRef = "projects/_index.md"
   weight = 10
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Blog"
+  pageRef = "posts"
   weight = 20
 
 # -- Footer Menu --
