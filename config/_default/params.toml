@@ -59,8 +59,6 @@ enableCodeCopy = true
 [taxonomy]
   showTermCount = true
 
-googleAnalytics = 324375398 
-
 [verification]
   # google = ""
   # bing = ""
